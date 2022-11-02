@@ -8,3 +8,4 @@ tts-out/
 *.mp3
 media/
 scratch/
+.venv-manim
